@@ -11,14 +11,7 @@ Over the course of this workshop you will build a model to detect dog breeds. Yo
 | **What will you learn**       | Use images to train a model to be able to perform inference to classify images                                        |
 | **What you'll need**          | Python 3.8+, Visual Studio Code, Git |
 | **Duration**                  | 1 hour                                                                |
-| **Just want to try the app or see the solution?** | [Solution](./solution)                         |
-| **Slides** | [Powerpoint](slides.pptx)
-| **Author** | [Christopher Harrison](https://geektrainer.dev)
 
-## Video walk-through
-
-[![workshop walk-through](./images/promo.png)](https://youtu.be/YWTDxcHAfkA "workshop walk-through")
-> 🎥 Click this image to watch Christopher walk you through the workshop
 
 ## What you'll build with CustomVision.ai
 
